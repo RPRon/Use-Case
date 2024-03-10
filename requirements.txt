@@ -1,0 +1,6 @@
+PyCharm - An IDE for Programming in Python
+Langchain
+FAISS
+Streamlit
+Model
+Document
